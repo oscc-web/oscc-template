@@ -1,1 +1,1 @@
-# oscc-website-template
+# oscc-template
